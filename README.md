@@ -2,4 +2,4 @@
 
 Projeto consiste em desenvolver uma página básica em HTML para utilizar os atributos html mais básicos.
 
-Foram utilizadas tags mais utilizadas no desenvolvimento do dia a dia.
+Foram utilizadas as tags e atributos mais utilizadas no desenvolvimento do dia a dia.
